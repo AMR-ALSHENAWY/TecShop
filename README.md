@@ -12,7 +12,7 @@
    <th>   <h2>Authentication Screen</h2>   </th> 
   <tr/>
   <tr>
-    <th><img src="images/1.auth.jpg"  width="370"></th>
+    <th><img src="images/1..auth.jpg"  width="370"></th>
   </tr>
   
 
