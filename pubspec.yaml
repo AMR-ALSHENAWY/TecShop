@@ -1,0 +1,43 @@
+name: tecshop_git
+description: TecShop is a small open source version of Mercado app (E-commerce application) https://play.google.com/store/apps/details?id=mercado.com
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^0.21.0-nullsafety.0
+  carousel_slider: ^4.0.0-nullsafety.0
+  cached_network_image: ^3.0.0-nullsafety
+  scrollable_positioned_list: ^0.2.0-nullsafety.0
+  curved_navigation_bar: ^0.4.0-nullsafety.0
+  fluttertoast: ^8.0.1-nullsafety.0
+  shared_preferences: ^2.0.3
+  provider: ^5.0.0
+  http: ^0.13.0
+  intl: ^0.17.0
+  share: ^2.0.0
+  url_launcher: ^6.0.2
+  flutter_screenutil: ^5.0.0-nullsafety.7
+  flutter_spinkit: ^5.0.0
+  google_fonts: ^2.0.0
+  photo_view: ^0.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
