@@ -6,6 +6,8 @@
 <img src="images/downloadAndroid.png"  width="250">  
 </a> 
 
+---
+
 <table style="width:100%" >
   
   <tr> 
@@ -97,6 +99,8 @@
   
   
 </table>
+
+---
 
 # Directory Structure
 ## (Files with X mark are not exist )>> contact me for complete access.
@@ -253,6 +257,9 @@ lib
 </code>
 </pre>
 
+
+---
+
 # Features : 
 
     
@@ -274,6 +281,7 @@ lib
 - Mongo db for database.
 - Clean Code and Structure.
      
+---
 
 # TecShop is a Small Version of Mercado App
 
@@ -285,33 +293,31 @@ lib
 <img src="images/googlePlay.jpg"  width="190px">  
 </a> 
 
+---
+
 # Youtube Mercado video
 
 <a href="https://www.youtube.com/watch?v=QdMxpiPmBIk&ab_channel=AMRELSHENAWY">
-<img src="images/youtube.png"  width="75px">  
+<img src="https://image.flaticon.com/icons/png/128/187/187209.png"  width="75px">  
 </a> 
 
+---
 
-# Follow Me 
-<table>
-  <tr>
-  <th>
-    <a href="https://www.linkedin.com/in/amr-alshenawy">
-      <img src="images/linkedin.png"  width="55px"> 
-    </a>
-    </th>
-   
-   
-   <th>
-    <a href="https://www.facebook.com/eng.amr.alshenawy">
-      <img src="images/facebook.png"  width="55px"> 
-    </a>
-    </th>
-    
-   <th>
-    <a href="https://wa.me/+201067316151">
-      <img src="images/whatsapp.png"  width="55px"> 
-    </a>
-   </th>
-  </tr>
-</table>
+## Social Links 
+
+<a href="https://www.linkedin.com/in/amr-alshenawy">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://image.flaticon.com/icons/png/128/1409/1409945.png" />
+</a> 
+ <a href="https://www.facebook.com/eng.amr.alshenawy">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://image.flaticon.com/icons/png/128/1409/1409943.png" />
+  </a>
+  
+   <a href="https://wa.me/+201067316151">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://image.flaticon.com/icons/png/128/220/220236.png" />
+  </a>
+  
+<a href="https://www.youtube.com/channel/UCbI1TeHt3OSKZyNBcgknVNg">
+<img width="35" src="https://image.flaticon.com/icons/png/128/187/187209.png" />
+  </a>
+
+---
