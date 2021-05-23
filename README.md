@@ -278,17 +278,17 @@ lib
 # TecShop is a Small Version of Mercado App
 
 <a href="https://play.google.com/store/apps/details?id=mercado.com">
-<img src="images/mercadoLogo.jpg"  width="200">  
+<img src="images/mercadoLogo.jpg"  width="190px">  
 </a> 
 
 <a href="https://play.google.com/store/apps/details?id=mercado.com">
-<img src="images/googlePlay.jpg"  width="200">  
+<img src="images/googlePlay.jpg"  width="190px">  
 </a> 
 
 # Youtube Mercado video
 
 <a href="https://www.youtube.com/watch?v=QdMxpiPmBIk&ab_channel=AMRELSHENAWY">
-<img src="images/youtube.png"  width="80">  
+<img src="images/youtube.png"  width="75px">  
 </a> 
 
 
@@ -297,20 +297,20 @@ lib
   <tr>
   <th>
     <a href="https://www.linkedin.com/in/amr-alshenawy">
-      <img src="images/linkedin.png"  width="60"> 
+      <img src="images/linkedin.png"  width="55px"> 
     </a>
     </th>
    
    
    <th>
     <a href="https://www.facebook.com/eng.amr.alshenawy">
-      <img src="images/facebook.png"  width="60"> 
+      <img src="images/facebook.png"  width="55px"> 
     </a>
     </th>
     
    <th>
     <a href="https://wa.me/+201067316151">
-      <img src="images/whatsapp.png"  width="60"> 
+      <img src="images/whatsapp.png"  width="55px"> 
     </a>
    </th>
   </tr>
