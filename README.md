@@ -289,10 +289,6 @@ lib
 <img src="images/mercadoLogo.jpg"  width="190px">  
 </a> 
 
-<a href="https://play.google.com/store/apps/details?id=mercado.com">
-<img src="images/googlePlay.jpg"  width="190px">  
-</a> 
-
 ---
 
 # Youtube Mercado video
